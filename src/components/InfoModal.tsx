@@ -54,7 +54,7 @@ export const InfoModal = ({ isOpen, handleClose, darkMode, styles }: Props) => (
           {/* <span>This project is open source on</span> */}
           <a
             className="ml-[6px] rounded-full h-5 w-5 sm:h-6 sm:w-6"
-            href="https://prince-kumar.github.io/word-master/"
+            href="https://prince-kumar.github.io/truddle/"
             target="_blank"
             rel="noreferrer"
           >
